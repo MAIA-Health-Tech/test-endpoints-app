@@ -11,6 +11,8 @@ App móvil de prueba para validar todos los endpoints de la API de MAIA. Diseña
 
 ## 📱 Instalación Rápida (Para Backend Devs)
 
+> **👉 ¿Usas macOS?** Lee la [Guía Completa de macOS](MACOS_SETUP.md) con instrucciones específicas para Mac, debug y logs.
+
 ### Opción 1: Usar APK Pre-compilado (MÁS FÁCIL)
 
 Si alguien del equipo ya compiló la app, pídeles el archivo `.apk` y:
